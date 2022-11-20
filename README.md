@@ -31,3 +31,4 @@ There are several TV channels today that track the live movement of the stocks t
 ## Preprocessing
 
  - Preparing the data for modeling
+ ![image](https://user-images.githubusercontent.com/84294406/202928855-908a91a1-03eb-4664-80df-54ca79bd27ac.png)
