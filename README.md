@@ -1,5 +1,5 @@
 # Stock market Movement with Daily News - EDA, Preprocessing and Modeling
- ## ARIMA, SARIMA, Exponential Moving Average /Lenear Regression,RNN- LSTM,  Prophet(FbProphet), NLP TEXT Analysis
+ ## ARIMA, SARIMA, Exponential Moving Average /Lenear Regression,RNN- LSTM(Recurrent Neural Network),  Prophet(FbProphet), NLP TEXT Analysis
 ## Introduction
 It is in the interest of many people and companies to predict the price movement and direction of the stock market. Also, the stock market is a vital component of a country’s economy. It is one of the most significant opportunities for investment by companies and investors. Stock traders need to predict trends in the stock market to determine when to sell or buy a stock. To see profits, stock traders need to acquire those stocks whose prices are expected to rise shortly and sell those stocks whose prices are expected to decline. If traders can adequately predict the stock trends and patterns, they can earn a considerable profit margin. However, stock markets are very volatile and, consequently, difficult to predict.
 
