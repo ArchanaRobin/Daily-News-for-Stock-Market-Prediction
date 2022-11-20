@@ -32,3 +32,6 @@ There are several TV channels today that track the live movement of the stocks t
 
  - Preparing the data for modeling
  ![image](https://user-images.githubusercontent.com/84294406/202928855-908a91a1-03eb-4664-80df-54ca79bd27ac.png)
+ 
+ ![image](https://user-images.githubusercontent.com/84294406/202928954-1e288480-a3a1-4db4-9930-5fec60775a95.png)
+
